@@ -38,7 +38,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Live
 Live site hosted on firebase
- [Click here](<Live_URL>)
+ [Click here](https://ehr-2-0.web.app/)
 
 
 
